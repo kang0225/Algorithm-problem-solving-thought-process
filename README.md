@@ -10,33 +10,33 @@
 
 <h3><strong>Dynamic Programming</strong></h3>
 
-[2775번](/2775/)
+[2775번](/BaekJoon/2775/)
 
-[12865번](/12865/README.md)
+[12865번](/BaekJoon/12865/)
 
 
 <h3><strong>Stack</strong></h3>
 
-[3111번](/3111/README.md)
+[3111번](/BaekJoon/3111/)
 
-[23300번](/23300/README.md)
+[23300번](/BaekJoon/23300/)
 
 
 <h3><strong>Brute Force</strong></h3>
 
-[2798번](/2798/README.md)
+[2798번](/BaekJoon/2798/)
 
 
 <h3><strong>Binary Tree</strong></h4>
 
-[1057번](/1057/README.md)
+[1057번](/BaekJoon/1057/)
 
 
 <h3><strong>Dijkstra</strong></h3>
 
-[1753번](/1753/README.md)
+[1753번](/BaekJoon/1753/)
 
 
 <h3><strong>Longest Increasing Subsequence</strong></h3>
 
-[2352번](/2352/README.md)
+[2352번](/BaekJoon/2352/)
