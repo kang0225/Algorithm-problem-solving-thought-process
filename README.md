@@ -14,10 +14,24 @@
 
 [12865번](/12865/README.md)
 
+
 <h3><strong>Stack</strong></h3>
 
 [3111번](/3111/README.md)
 
 [23300번](/23300/README.md)
 
+
 <h3><strong>Brute Force</strong></h3>
+
+[2798번](/2798/README.md)
+
+
+<h3><strong>Binary Tree</strong></h4>
+
+[1057번](/1057/README.md)
+
+
+<h3><strong>Longest Increasing Subsequence</strong></h3>
+
+[2352번](/2352/README.md)
