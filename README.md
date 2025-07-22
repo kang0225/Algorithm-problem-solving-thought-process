@@ -10,7 +10,7 @@
 
 <h3><strong>Dynamic Programming</strong></h3>
 
-[2775번](/2775/README.md)
+[2775번](/2775/)
 
 [12865번](/12865/README.md)
 
