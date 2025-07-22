@@ -8,6 +8,9 @@
 
 ---
 
-<h3><strong>BinarySearchTree</strong></h3>
+<h3><strong>Dynamic Programming</strong></h3>
+
+[12865번](/12865/README.md)
+[2775번](/2775/README.md)
 
 <h3><strong></strong></h3>
