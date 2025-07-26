@@ -40,3 +40,8 @@
 <h2><strong>Longest Increasing Subsequence</strong></h2>
 
 [2352번](/BaekJoon/2352/)
+
+
+<h2><strong>Deque</strong></h2>
+
+[1966번](/BaekJoon/1966/)
