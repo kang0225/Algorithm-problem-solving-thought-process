@@ -19,7 +19,7 @@ Output : 각 테스트 케이스에 대해 문서가 몇 번째로 인쇄되는�
 
 ---
 
-사용한 알고리즘 : Knapsack, Dynamic Programming
+사용한 알고리즘 : Queue, Deque
 
 사용한 메모리 : 36,460KB
 
