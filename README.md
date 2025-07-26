@@ -3,7 +3,7 @@
 
 ### 사용 언어 : Java, JS, C/C++, Python3
 ### 문제 출처 : BaekJoon, Programmers
-### 현재 풀이 문항 수 : 8
+### 현재 풀이 문항 수 : 10
 
 ---
 
@@ -16,6 +16,8 @@
 
 
 <h2><strong>Stack</strong></h2>
+
+[1874번](/BaekJoon/1874/)
 
 [3111번](/BaekJoon/3111/)
 
